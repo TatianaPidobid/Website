@@ -74,7 +74,7 @@ const h2Html = document.querySelector('.member h2');
 const colorImages = ['img/s1.png', 'img/s2.png', 'img/s3.png'];
 const grayImages = ['img/s1a.png', 'img/s2a.png', 'img/s3a.png'];
 const names = ['Tetiana Pidobid', 'John Doe', 'John Doel'];
-const professions = ['Front-End Developer', 'UX i UI Designer', 'Programeer JavaScript'];
+const professions = ['Front-End Developer', 'UX i UI Designer', 'Programmer JavaScript'];
 
 function changeElement() {
  console.log("automatic calling")
